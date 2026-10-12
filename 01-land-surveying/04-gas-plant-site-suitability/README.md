@@ -31,7 +31,7 @@ Spatial datasets were prepared and reclassified to a suitability scale of 1–5.
 
 ## Map
 
-![Gas Processing Plant Site Suitability Map — Delta State, Nigeria](Gas-Processing-Plant-Site-Suitability-Map.png))
+![Gas Processing Plant Site Suitability Map — Delta State, Nigeria](Gas-Processing-Plant-Site-Suitability-Map.png)
 
 ## Limitations
 These results represent preliminary GIS screening, not confirmed construction sites. Data completeness, land ownership, flood risk, environmental restrictions, regulatory requirements, and field verification must be assessed before selecting a site.
