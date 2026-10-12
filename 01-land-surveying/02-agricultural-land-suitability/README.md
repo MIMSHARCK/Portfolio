@@ -30,8 +30,7 @@ The analysis identified the following crop dominance patterns:
 *These results represent the modelled suitability classifications.*
 
 ## Final Map
-
-[Rice–Groundnut Crop Dominance Analysis of Delta State, Nigeria](rice-groundnut-dominance-map.png)
+![Rice–Groundnut Crop Dominance Analysis of Delta State, Nigeria](rice-groundnut-dominance-map.png)
 
 ## Project Details
 
