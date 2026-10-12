@@ -23,5 +23,5 @@ This document presents a land development layout showing the arrangement of plot
 
 ## Project Document
 
-The accompanying PDF contains the land development
+[**View Land Development Layout Plan (PDF)**](land-development-layout.pdf)
 
