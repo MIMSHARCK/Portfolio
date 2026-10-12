@@ -24,4 +24,5 @@ Settlement results from OpenStreetMap and GRID3 were compared to assess how the 
 The analysis covers four documented facilities and does not represent a complete inventory of Delta State's oil and gas infrastructure. Settlement figures are estimates, not census counts. One facility location was represented at town-level precision because its exact position was not publicly available.
 
 ## Map
-The final project map will be added here.
+
+![Oil & Gas Infrastructure Proximity Map — Delta State, Nigeria](oil-gas-infrastructure-proximity-map.png)
