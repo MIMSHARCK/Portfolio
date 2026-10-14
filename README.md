@@ -2,42 +2,63 @@
 
 Welcome to my portfolio.
 
-This repository documents my work and development in **Land Surveying, GIS, and Geospatial Analysis**.
+This repository documents my work and development in **Land Surveying, GIS, and Geospatial Analysis**, showcasing practical applications of geospatial technologies to real-world problems.
 
 ## About
 
-I am developing my skills across both **land surveying and geospatial technologies**, with a focus on applying spatial data, mapping, and analysis to real-world problems.
-
-## Areas of Work
-
-* Land Surveying
-* GIS & Spatial Analysis
-* Digital Mapping
-* Survey Plan Preparation
-* Spatial Data Processing
-* Geospatial Visualization
+I am a Surveyor developing my expertise in **GIS and Geospatial Analysis**, with an interest in applying spatial data and analytical methods to land management, agriculture, and energy infrastructure.
 
 ## Projects
 
-### Land Surveying
+### Project 1 — Land Surveying
+**Land Development Layout**
 
-* Survey Plans
-* Surveying and spatial data documentation
+A land surveying reference project demonstrating land development layout documentation.
 
-### GIS & Spatial Analysis
+[View Project 1](01-land-surveying/README.md)
 
-* GIS mapping projects
-* Spatial analysis projects
-* Geospatial data processing
+### Project 2 — Agricultural Land Suitability Analysis
+**Delta State, Nigeria**
 
-More projects will be added as my portfolio develops.
+A GIS-based assessment comparing rice and groundnut suitability using environmental and land-cover criteria.
 
-## Tools
+[View Project 2](02-agricultural-land-suitability/README.md)
 
-* QGIS
-* AutoCAD
-* Other surveying and geospatial tools
+### Project 3 — Oil & Gas Infrastructure & Proximity Analysis
+**Delta State, Nigeria**
 
+A spatial analysis of oil and gas facilities, nearby settlements, and road networks using graduated buffer zones.
+
+[View Project 3](03-oil-gas-proximity-analysis/README.md)
+
+### Project 4 — Gas Processing Plant Site Suitability Analysis
+**Delta State, Nigeria**
+
+A multi-criteria GIS analysis using the Analytical Hierarchy Process (AHP) and weighted overlay to identify potential sites for a gas processing plant.
+
+[View Project 4](04-gas-plant-site-suitability/README.md)
+
+## Tools & Technologies
+
+- QGIS
+- AutoCAD
+- GDAL
+- Python and NumPy
+- Raster analysis and weighted overlay
+- Buffer and proximity analysis
+- Analytical Hierarchy Process (AHP)
+
+## Areas of Interest
+
+- Land Surveying and Land Administration
+- GIS & Spatial Analysis
+- Agricultural Suitability Modelling
+- Oil & Gas Infrastructure
+- Geospatial Decision Support
+
+---
+
+**Portfolio under development — documenting my progression from land surveying to advanced geospatial analysis.**
 ---
 
 **Portfolio under development — documenting the progression from land surveying to advanced geospatial work.**
