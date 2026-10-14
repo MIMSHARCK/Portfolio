@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile-photo.jpeg" alt="Professional profile photo" width="180">
+</p>
 # Geospatial & Land Surveying Portfolio
 
 Welcome to my portfolio!
