@@ -1,15 +1,15 @@
+# Land Surveyor | GIS & Geospatial Analyst.
 <p align="center">
   <img src="profile-photo.jpeg" alt="Professional profile photo" width="180">
 </p>
-# Geospatial & Land Surveying Portfolio
 
-Welcome to my portfolio!
+Welcome to my space!
 
-This repository showcases my work and professional development in **Land Surveying, GIS, and Geospatial Analysis**, demonstrating practical applications of geospatial technologies to real-world challenges.
+This showcases my work and professional development in **Land Surveying, GIS, and Geospatial Analysis**, demonstrating practical applications of geospatial technologies to real-world challenges.
 
 ## About Me
 
-I am a Surveyor developing my expertise in **GIS and Geospatial Analysis**, with interests in applying spatial data and analytical methods to land management, agriculture, energy infrastructure, and site selection.
+I am a Land Surveyor developing my expertise in **GIS and Geospatial Analysis**, with interests in applying spatial data and analytical methods to land management, agriculture, energy infrastructure, and site selection.
 
 My portfolio reflects my progression from traditional land surveying into spatial analysis and geospatial decision support.
 
