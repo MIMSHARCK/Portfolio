@@ -1,64 +1,67 @@
 # Geospatial & Land Surveying Portfolio
 
-Welcome to my portfolio.
+Welcome to my portfolio!
 
-This repository documents my work and development in **Land Surveying, GIS, and Geospatial Analysis**, showcasing practical applications of geospatial technologies to real-world problems.
+This repository showcases my work and professional development in **Land Surveying, GIS, and Geospatial Analysis**, demonstrating practical applications of geospatial technologies to real-world challenges.
 
-## About
+## About Me
 
-I am a Surveyor developing my expertise in **GIS and Geospatial Analysis**, with an interest in applying spatial data and analytical methods to land management, agriculture, and energy infrastructure.
+I am a Surveyor developing my expertise in **GIS and Geospatial Analysis**, with interests in applying spatial data and analytical methods to land management, agriculture, energy infrastructure, and site selection.
+
+My portfolio reflects my progression from traditional land surveying into spatial analysis and geospatial decision support.
 
 ## Projects
 
-### Project 1 — Land Surveying
+### Project 1 — Land Surveying & Land Development
+
 **Land Development Layout**
 
-A land surveying reference project demonstrating land development layout documentation.
+A land surveying reference project demonstrating land development layout documentation and the application of surveying principles to land development.
 
 [View Project 1](01-land-surveying/README.md)
 
 ### Project 2 — Agricultural Land Suitability Analysis
+
 **Delta State, Nigeria**
 
-A GIS-based assessment comparing rice and groundnut suitability using environmental and land-cover criteria.
+A GIS-based suitability assessment comparing rice and groundnut cultivation potential using environmental conditions, soil characteristics, terrain, and land-cover criteria.
 
 [View Project 2](02-agricultural-land-suitability/README.md)
 
-### Project 3 — Oil & Gas Infrastructure & Proximity Analysis
+### Project 3 — Oil & Gas Infrastructure Proximity Analysis
+
 **Delta State, Nigeria**
 
-A spatial analysis of oil and gas facilities, nearby settlements, and road networks using graduated buffer zones.
+A spatial analysis examining the proximity of oil and gas facilities to nearby settlements and road networks using buffer analysis in QGIS.
 
 [View Project 3](03-oil-gas-proximity-analysis/README.md)
 
 ### Project 4 — Gas Processing Plant Site Suitability Analysis
+
 **Delta State, Nigeria**
 
-A multi-criteria GIS analysis using the Analytical Hierarchy Process (AHP) and weighted overlay to identify potential sites for a gas processing plant.
+A multi-criteria GIS analysis applying the Analytical Hierarchy Process (AHP) and weighted overlay techniques to identify potentially suitable locations for a gas processing plant.
 
 [View Project 4](04-gas-plant-site-suitability/README.md)
 
 ## Tools & Technologies
 
-- QGIS
-- AutoCAD
-- GDAL
-- Python and NumPy
-- Raster analysis and weighted overlay
-- Buffer and proximity analysis
-- Analytical Hierarchy Process (AHP)
+* **GIS Software:** QGIS
+* **Surveying & Design:** AutoCAD
+* **Geospatial Processing:** GDAL
+* **Programming & Numerical Analysis:** Python, NumPy
+* **Spatial Analysis:** Raster analysis, buffer analysis, proximity analysis, and weighted overlay
+* **Decision Support:** Analytical Hierarchy Process (AHP)
 
 ## Areas of Interest
 
-- Land Surveying and Land Administration
-- GIS & Spatial Analysis
-- Agricultural Suitability Modelling
-- Oil & Gas Infrastructure
-- Geospatial Decision Support
+* Land Surveying and Land Administration
+* GIS and Spatial Analysis
+* Agricultural Suitability Modelling
+* Oil & Gas Infrastructure Mapping
+* Site Suitability Analysis
+* Geospatial Decision Support
 
 ---
 
-**Portfolio under development — documenting my progression from land surveying to advanced geospatial analysis.**
----
-
-**Portfolio under development — documenting the progression from land surveying to advanced geospatial work.**
+*Portfolio under development as I continue to expand my skills in GIS, spatial analysis, and advanced geospatial applications.*
